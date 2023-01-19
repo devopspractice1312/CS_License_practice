@@ -1,0 +1,18 @@
+{
+  "development": {
+	"username": "azure",
+	"password": "6#vWHD_$",
+	"database": "license-db",
+	"host": "127.0.0.1",
+	"port": "57069",
+	"dialect": "mysql"
+  },
+  "production": {
+    "username": "azure",
+	"password": "6#vWHD_$",
+	"database": "license-db",
+	"host": "127.0.0.1",
+	"port": "57069",
+	"dialect": "mysql"
+  }
+}
